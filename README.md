@@ -1,16 +1,37 @@
-## Hi there 👋
+👋 Hi, I'm Anchal Singh.
 
-<!--
-**anchalsinghanchalsingh66-cloud/anchalsinghanchalsingh66-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Diploma IT Student (3rd Year)
+💻 Learning Python | Web Development |SQL | HTML | CSS |Django |Mongodb|Excel
+🚀 Passionate about building real-world projects
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 Skills
+
+- Python 🐍
+- HTML, CSS, JavaScript 🌐
+- Git & GitHub
+- SQL
+- HTML/CSS
+- Django
+
+---
+
+📂 Projects
+
+- 🔹 Quiz Web App
+- 🔹 Visiting Card Scanner
+- 🔹 Rank Predictor
+- 🔹Landing Page
+- 🔹Face recogintion attendance system
+- 🔹Resume Website
+
+---
+
+📫 Contact Me
+
+- 📧 Email: anchalsinghanchalsingh66@gmail.com
+
+---
+
+⭐ Always learning & growing!
